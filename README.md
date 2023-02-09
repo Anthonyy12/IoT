@@ -25,13 +25,13 @@ El prorposito de este proyecto es crear un sistema de identificación o RFID que
 
 ## Epicas del proyecto
 * Se busca ayudar con la seguridad por medio de registro de Id's
-* Mostrar las personas que ingresan
+* Mostrar las lecturas en Arduino IDE
 * Autorizar el ingreso a un sitio
 
 ## Tabla de historias de usuario
 |ID| Historia de usuario | Estimación | Como probarlo | Responsable |
 |----|---------------------|------------|---------------|-------------|
-|1|Se busca ayudar a las personas con problemas cardiovasculares| 3 |Usando el prototipo en una persona con problemas del corazon|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
-|2|Medir el ritmo cardiaco| 5 |Colocando el dedo índice de cualquier mano|Adrián Moreno Corona|
+|1|Se busca ayudar con la seguridad por medio de la lectura RFID| 2 |Usando el prototipo con una tarjeta o un llavero con chip|Juan Antonio Domínguez Rosales|
+|2|Autorizar el ingreso a un sitio| 2 |Colocando 2 leds para saber si esta autorizado o no|Juan Antonio Domínguez Rosales|
 
 ## Prototipo en dibujo
